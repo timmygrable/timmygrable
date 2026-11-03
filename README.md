@@ -4,6 +4,6 @@ I'm a Senior Software Engineer at Capital One in New York City. Outside work, I'
 
 You can see my projects and engineering work on my [portfolio](https://timmygrable.github.io/).
 
-- [Résumé](https://timmygrable.github.io/Timmy_Grable_Resume.pdf)
+- [Resume](https://timmygrable.github.io/Timmy_Grable_Resume.pdf)
 - [timmy.md](https://timmygrable.github.io/timmy.md): my background and project details in plain Markdown
 - [LinkedIn](https://www.linkedin.com/in/timmygrable/)
